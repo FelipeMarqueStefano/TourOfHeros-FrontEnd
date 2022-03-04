@@ -64,20 +64,3 @@
 .heroes .name {
   align-self: center;
 }
-
-.details {
-  background-color: whitesmoke;
-  width: 30vw;
-  padding: 1em;
-  border: 1px solid gray;
-  border-radius: 5px;
-}
-
-.details input {
-  font-size: 1em;
-  margin-left: 1em;
-  padding: 5px;
-  border: 1px solid gray;
-  border-radius: 5px;
-  outline: none;
-}
